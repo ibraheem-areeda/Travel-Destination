@@ -1,11 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import './components/header/header.css';
-import Header from './components/header/header';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Footer from './components/footer/footer';
-import './components/footer/footer.css';
+
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -13,8 +12,7 @@ root.render(
   <React.StrictMode>
     <>
     
-    <Header />
-    <Footer />
+    <App />
     </>
   </React.StrictMode>
 );

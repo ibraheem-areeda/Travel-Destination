@@ -38,7 +38,7 @@ header {
     text-decoration: none;
   }
 
-  h1 {
+  header h1 {
     color: #f4a261;
     font-size: min(5vw, 1.2em);
     text-align: center;
