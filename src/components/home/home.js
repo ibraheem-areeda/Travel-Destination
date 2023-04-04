@@ -8,9 +8,9 @@ import  '../tours/tours.css';
 function Home(props) {
     return (
      <>
-     <Header />
+     
      <Tours data={props.data} />
-     <Footer />
+     
    
      </>
     );

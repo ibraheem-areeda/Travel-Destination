@@ -9,6 +9,7 @@
     border-radius: 10px;
     color: #e9c46a;
     font-size: 11px;
+    
     box-shadow: 5px 5px 10px #264653 ;
     
     margin: 11px 11px;
@@ -16,6 +17,9 @@
   
 }
 
+.tourcard h1{
+  text-decoration: none;
+}
 
 .tourcard:hover {
   transform: scale(1.2);
