@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 
 function Tour(props) {
     let dcarr = props.data
-    console.log(dcarr);
-    console.log(dcarr[1])
-    console.log(dcarr[1].name)
+    // console.log(dcarr);
+    // console.log(dcarr[1])
+    // console.log(dcarr[1].name)
     return (
         <>
 
